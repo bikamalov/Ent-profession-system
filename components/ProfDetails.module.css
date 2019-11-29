@@ -1,0 +1,40 @@
+.body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    min-height: 94.1vh;
+}
+.container{
+    display: flex;
+    border: 1px solid white;
+    margin-bottom: 2%;
+}
+.space{
+    flex-grow: 1;
+    color: white;
+}
+.space text{
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.poster{
+    height: 350px;
+    box-shadow: -2px 0px 0px 1px #000;
+}
+.previous{
+    border-radius: 50%;
+    background-color: #f1f1f1;
+    color: black;
+    width: 50px;
+    height: 50px;
+}
+.previous:hover{
+    background-color: #ddd;
+    color: black;
+    width: 50px;
+    height: 50px;
+
+}

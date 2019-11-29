@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic');
+.info{
+    height: 92vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    padding: 10%;
+    background-color: white;
+    text-align: left;
+    display: block;
+}
+.quote{
+    display: flex;
+    align-items: center;
+}
+text{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+}
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #001f54;
+    outline: none;
+}
+
+input[type=number]:focus {
+    background-color: #001f54;
+    color: white;
+}
+.previous{
+    border-radius: 50%;
+    background-color: #f1f1f1;
+    color: black;
+    width: 50px;
+    height: 50px;
+}
+.previous:hover{
+    background-color: #ddd;
+    color: black;
+    width: 50px;
+    height: 50px;
+
+}

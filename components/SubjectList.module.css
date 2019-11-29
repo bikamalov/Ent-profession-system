@@ -1,0 +1,13 @@
+.subjects{
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 13px;
+}

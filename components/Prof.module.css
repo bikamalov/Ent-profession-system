@@ -1,0 +1,29 @@
+.prof{
+    width: 25%;
+    background-color: #fefcfb;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 1px 3px black;
+}
+
+.inner_prof{
+    padding-bottom: 20px;
+}
+.title{
+    padding:15px;
+    justify-content: center;
+    background-color: #0a1128;
+    background-size: cover;
+    color: #fefcfb;
+    font-weight: bold;
+}
+.description{
+    margin: 10px 15px 1px 15px;
+}
+.category{
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}

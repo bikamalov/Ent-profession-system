@@ -1,0 +1,36 @@
+.proflist{
+    padding-top: 2.5%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.previous{
+    background-color: #f1f1f1;
+    color: black;
+    width: 100px;
+    height: auto;
+    position: fixed;
+    display: block;
+    margin-top: 3%;
+    margin-left: 1.5%;
+    font-size: 50px;
+}
+.previous:hover{
+    background-color: #ddd;
+    color: black;
+    width: 100px;
+    height: auto;
+    position: fixed;
+    display: block;
+    margin-top: 3%;
+    margin-left: 1.5%;
+    font-size: 50px;
+}
+.titleOfProflist{
+    margin-top: 2%;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:#fefcfb;
+}

@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+}
+.subjects1{
+    background-color: #0a1128;
+    color: white;
+    padding: 1px 0;
+}
+
+.subjects2{
+    padding: 1px 0;
+}
+
+.subject{
+    pointer-events: none;
+}
+
+.subjects1:hover{
+    background-color: #001f54;
+}
+.active ~ subjects1{
+    background-color: #fefcfb;
+}
+
+.subjects2:hover{
+    background-color: #0a1128;
+    color:white;
+}
+
